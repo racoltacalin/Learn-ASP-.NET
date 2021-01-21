@@ -35,3 +35,45 @@ C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ContosoCra
 C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.pdb
 C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.genruntimeconfig.cache
 C:\Users\racol\OneDrive\Desktop\C# Learning\Learning_C#\Learning-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.csproj.CopyComplete
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\appsettings.json
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.exe
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.deps.json
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.runtimeconfig.json
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.runtimeconfig.dev.json
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.dll
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.pdb
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.Views.dll
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\bin\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.Views.pdb
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.csprojAssemblyReference.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.AssemblyInfoInputs.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.AssemblyInfo.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.csproj.CoreCompileInputs.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.RazorAssemblyInfo.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.RazorAssemblyInfo.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\staticwebassets\ContosoCrafts.WebSite.Clain.StaticWebAssets.Manifest.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\staticwebassets\ContosoCrafts.WebSite.Clain.StaticWebAssets.xml
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\scopedcss\bundle\ContosoCrafts.WebSite.Clain.styles.css
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.TagHelpers.input.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.TagHelpers.output.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.RazorCoreGenerate.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.RazorTargetAssemblyInfo.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.RazorTargetAssemblyInfo.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.Views.pdb
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.dll
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.pdb
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.genruntimeconfig.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.csproj.CopyComplete
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.RazorComponent.input.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\RazorDeclaration\Components\ProductList.razor.g.cs
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\ContosoCrafts.WebSite.Clain.RazorComponent.output.cache
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\RazorDeclaration\ContosoCrafts.WebSite.Clain.dll
+D:\ASP.NET\LEARN-ASP-.NET\ContosoCrafts\ContosoCrafts.WebSite.Clain\obj\Debug\netcoreapp3.1\Razor\Components\ProductList.razor.g.cs

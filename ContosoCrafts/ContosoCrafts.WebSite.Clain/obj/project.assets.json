@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\racol\\OneDrive\\Desktop\\C# Learning\\Learning_C#\\Learning-.NET\\ContosoCrafts\\ContosoCrafts.WebSite.Clain\\ContosoCrafts.WebSite.Clain.csproj",
+      "projectUniqueName": "D:\\ASP.NET\\LEARN-ASP-.NET\\ContosoCrafts\\ContosoCrafts.WebSite.Clain\\ContosoCrafts.WebSite.Clain.csproj",
       "projectName": "ContosoCrafts.WebSite.Clain",
-      "projectPath": "C:\\Users\\racol\\OneDrive\\Desktop\\C# Learning\\Learning_C#\\Learning-.NET\\ContosoCrafts\\ContosoCrafts.WebSite.Clain\\ContosoCrafts.WebSite.Clain.csproj",
+      "projectPath": "D:\\ASP.NET\\LEARN-ASP-.NET\\ContosoCrafts\\ContosoCrafts.WebSite.Clain\\ContosoCrafts.WebSite.Clain.csproj",
       "packagesPath": "C:\\Users\\racol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\racol\\OneDrive\\Desktop\\C# Learning\\Learning_C#\\Learning-.NET\\ContosoCrafts\\ContosoCrafts.WebSite.Clain\\obj\\",
+      "outputPath": "D:\\ASP.NET\\LEARN-ASP-.NET\\ContosoCrafts\\ContosoCrafts.WebSite.Clain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
