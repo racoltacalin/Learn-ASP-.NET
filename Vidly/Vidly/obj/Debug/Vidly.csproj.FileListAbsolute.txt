@@ -77,3 +77,13 @@ D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.c
 D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.dll
 D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.pdb
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\bin\EntityFramework.dll
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\bin\EntityFramework.SqlServer.dll
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\bin\EntityFramework.xml
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\bin\EntityFramework.SqlServer.xml
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\ASP.NET\LEARN-ASP-.NET\Vidly\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
